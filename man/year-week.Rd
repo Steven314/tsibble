@@ -75,6 +75,7 @@ is_53weeks(1969, week_start = 7)
 
 Other index functions: 
 \code{\link{yearmonth}()},
-\code{\link{yearquarter}()}
+\code{\link{yearquarter}()},
+\code{\link{yeartrimester}()}
 }
 \concept{index functions}

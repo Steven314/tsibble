@@ -67,6 +67,7 @@ lubridate::year(y) # calendar years
 
 Other index functions: 
 \code{\link{yearmonth}()},
+\code{\link{yeartrimester}()},
 \code{\link{yearweek}()}
 }
 \concept{index functions}

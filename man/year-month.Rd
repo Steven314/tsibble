@@ -67,6 +67,7 @@ make_yearmonth(year = 2020:2021, month = 10:11)
 
 Other index functions: 
 \code{\link{yearquarter}()},
+\code{\link{yeartrimester}()},
 \code{\link{yearweek}()}
 }
 \concept{index functions}
